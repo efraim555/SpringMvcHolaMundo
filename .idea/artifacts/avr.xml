@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="avr">
+    <output-path>$PROJECT_DIR$/out/artifacts/avr</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMvcHolaMundo" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SpringMvcHolaMundo/web/Web" />
+    </root>
+  </artifact>
+</component>
